@@ -20,3 +20,4 @@ import './ShapeService';
 import './ShapeUser';
 import './ShapeUsers';
 import './ShapeAzure';
+import './ShapeKafka';

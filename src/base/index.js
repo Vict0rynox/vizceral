@@ -9,5 +9,7 @@ export { default as Node } from './node';
 export { default as NodeNameView } from './nodeNameView';
 export { default as NodeView } from './nodeView';
 export { default as NodeViewStandard } from './nodeViewStandard';
+export { default as ShapesFactory } from './ShapesFactory';
+export { default as ShapeParent } from './shapes/ShapeParent';
 export { default as TrafficGraph } from './trafficGraph';
 export { default as TrafficGraphView } from './trafficGraphView';
